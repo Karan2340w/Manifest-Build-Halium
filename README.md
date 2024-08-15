@@ -149,7 +149,7 @@ wget https://ci.ubports.com/job/xenial-rootfs-armhf/lastSuccessfulBuild/artifact
 ```
 ```bash
 arm64 :
-wget https://ci.ubports.com/job/xenial-rootfs-arm64/lastSuccessfulBuild/artifact/out/ubports-touch.rootfs-xenial-arm64.tar.gz
+wget https://ci.ubports.com/job/xenial-hybris-android9-rootfs-arm64/lastSuccessfulBuild/artifact/ubuntu-touch-android9-arm64.tar.gz
 ```
 or ( Rootfs TheKit ) / https://github.com/ubports-on-fxtec-pro1/rootfs-builder-debos-android9/releases :
 ```bash
